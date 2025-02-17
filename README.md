@@ -30,4 +30,4 @@
 ------------------------------------------- 
 
 ### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/louie.aguilar023/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{louieaguilar-official}/count.svg)
