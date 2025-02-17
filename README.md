@@ -1,14 +1,12 @@
 [![@LouieAguilar-Official](https://raw.githubusercontent.com/LouieAguilar-Official/LouieAguilar-Official/main/assets/pic.png)](https://www.facebook.com/louie.aguilar023)
-------------------------------------------- 
-### Socials: 
-<a href="#"><img src="https://img.shields.io/badge/louieaguilar-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a> <a href="#"><img src="https://img.shields.io/badge/louieaguilar-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>  <a href="#"><img src="https://img.shields.io/badge/louieaguilar-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://www.facebook.com/louie.aguilar023"><img src="https://img.shields.io/badge/louieaguilar-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-<br>
-### How to reach me: 
-<a href="mailto:louieaguilar.official@gmail.com">
-  <img src="https://img.shields.io/badge/-louieaguilar.official%40gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
 
-### Current Status Quo:
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/louie.aguilar023) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](#) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](#) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](#) 
+ 
+
+## Current Status Quo:
 
 - 💼 Information Technology
 - 🔍 I’m looking for connections in <strong>Web Development and Cyber Security</strong> Industry.
@@ -18,7 +16,7 @@
 
 ------------------------------------------- 
 
-### Tools I work upon:
+## Tools I work upon:
 
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">  <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 
@@ -26,11 +24,9 @@
 
 
 
-[//]: <> (Credits: louieaguilar)
-[//]: <> (Credits: Last edited on: 02/17/225)
+---
+[![](https://visitcount.itsvg.in/api?id=carlcastanas&icon=2&color=1)](https://visitcount.itsvg.in)
 
+[//]: <> (Credits: carlcastanas)  
+[//]: <> (Last edited on: 11/19/23)
 
-------------------------------------------- 
-
-### Profile Visits:
-![Visitor Count](https://profile-counter.glitch.me/{louieaguilar-official}/count.svg)
