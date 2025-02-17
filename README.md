@@ -5,7 +5,7 @@
 <br>
 ### How to reach me: 
 <a href="mailto:louieaguilar.official@gmail.com">
-  <img src="https://img.shields.io/badge/-louieaguilar%40gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/-louieaguilar.official%40gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 ### Current Status Quo:
