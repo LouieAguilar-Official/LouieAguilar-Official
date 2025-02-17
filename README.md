@@ -17,19 +17,9 @@
 
 ## Tools I work upon:
 
-<a href="https://www.w3.org/html/" target="_blank">  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>  <a href="https://www.php.net/" target="_blank">  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
-</a>  <a href="https://www.w3.org/Style/CSS/" target="_blank">  <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">
-</a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-</a>  <a href="https://reactjs.org/" target="_blank">  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
-</a>  <a href="https://nodejs.org/" target="_blank">  <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-</a>  <a href="https://git-scm.com/" target="_blank">  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">  <img src="https://img.shields.io/badge/css3%20-%2314354C.svg?&style=for-the-badge&logo=css3&logoColor=white">  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">  <img src="https://img.shields.io/badge/node.js%20-%23008CC1.svg?&style=for-the-badge&logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/> 
 
-
-</a>  <a href="https://code.visualstudio.com/" target="_blank">  <img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">
-</a>  <a href="https://www.canva.com/" target="_blank">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">
-</a>  <a href="https://www.figma.com/" target="_blank">  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
-</a>  <a href="https://www.mysql.com/" target="_blank">  <img src="https://img.shields.io/badge/mysql-%234F8CFF.svg?style=for-the-badge&logo=mysql&logoColor=white">  </a>  <a href="https://www.python.org/" target="_blank">  <img src="https://img.shields.io/badge/python-%2337769E.svg?style=for-the-badge&logo=python&logoColor=white">  </a>
+<img src="http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue">  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white">  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">  <img src="https://img.shields.io/badge/mysql-%234F8CFF.svg?style=for-the-badge&logo=mysql&logoColor=white">  <img src="https://img.shields.io/badge/python-%2337769E.svg?style=for-the-badge&logo=python&logoColor=white">
 
 
 
