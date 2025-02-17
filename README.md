@@ -14,7 +14,6 @@
 - 💻 Specializing in <strong>Information Technology</strong>, with expertise in <strong>Software Development</strong>, <strong>System Administration</strong>, <strong>Cloud Computing</strong>, and <strong>Data Management</strong>.
 - 🔍 Always exploring new technologies to enhance efficiency and innovation within IT systems and software solutions.
 
-------------------------------------------- 
 
 ## Tools I work upon:
 
@@ -24,7 +23,7 @@
 
 
 
----
+
 [![](https://visitcount.itsvg.in/api?id=carlcastanas&icon=2&color=1)](https://visitcount.itsvg.in)
 
 [//]: <> (Credits: carlcastanas)  
